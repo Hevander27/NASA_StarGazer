@@ -41,7 +41,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/a/MXPnK4K.gif' title='' width='' alt='Video Demo' />
 
-![Alt Text](https://imgur.com/jDbZYQf)
+![Alt Text](https://imgur.com/jDbZYQf.gif)
 
 
 
@@ -63,7 +63,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Hevander**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
