@@ -39,7 +39,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://i.imgur.com/a/MXPnK4K.gif' title='' width='' alt='Video Demo' />
+
+<iframe src="https://imgur.com/a/MXPnK4K/embed" frameborder="0" width="100%" height="550" allowfullscreen="allowfullscreen"></iframe>
+
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  >
 <a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a>
