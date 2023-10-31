@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+*** is an android app that **fill in description (An app that displays a scrollable list of space images from the NASA API")**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -20,14 +20,14 @@ The following REQUIRED features are completed:
 
 - [X] App contains a RecyclerView that displays a list of scrollable data
 - [X] App displays at least two (2) pieces of data for each RecyclerView item
-- [X] Use a downloadable font with custom color and size
-- [X] Modify the theme of the app in `themes.xml`
+- [X] Use a downloadable font with custom color and size **Chakra Peatch**
+- [X] Modify the theme of the app in `themes.xml`**Lilac Theme**
 - [X] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
 - [x] Update the night theme to use different versions of styles when in dark mode **Used Silver text for titles**
-- [x] Use different drawables when in dark mode
+- [x] Use different drawables when in dark mode  **Black starry night**
 
 The following EXTRA features are implemented:
 
