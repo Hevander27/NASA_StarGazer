@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/detailImageView"
+        android:layout_width="415dp"
+        android:layout_height="295dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="detailImageView"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="@+id/detailTitleView"
+        app:layout_constraintStart_toStartOf="@+id/detailTitleView"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/captionView"
+        android:layout_width="366dp"
+        android:layout_height="382dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginEnd="22dp"
+        android:fontFamily="@font/chakrapetch_light"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/detailImageView"
+        app:layout_constraintStart_toStartOf="@+id/detailImageView"
+        app:layout_constraintTop_toBottomOf="@+id/detailImageView" />
+
+    <TextView
+        android:id="@+id/detailTitleView"
+        android:layout_width="415dp"
+        android:layout_height="34dp"
+        android:fontFamily="@font/chakrapetch_bolditalic"
+        android:gravity="center_horizontal"
+        android:text="Title"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/detailImageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
