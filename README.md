@@ -41,7 +41,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/a/MXPnK4K.gif' title='' width='' alt='Video Demo' />
 
-![Alt Text](https://imgur.com/jDbZYQf.gif)
+![Alt Text](https://i.imgur.com/a/MXPnK4K.gif)
+
 
 
 
