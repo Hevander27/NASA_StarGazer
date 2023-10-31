@@ -41,8 +41,10 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/a/MXPnK4K.gif' title='' width='' alt='Video Demo' />
 
-![Alt Text](https://i.imgur.com/a/MXPnK4K.gif)
 
+
+<a href="//imgur.com/a/MXPnK4K">Project #7: CYOAPI Part 3:  (Up Res, no lag)</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
