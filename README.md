@@ -2,9 +2,9 @@
 
 # AND101 Project 7 - CYOAPI Part 3: Beautified
 
-Submitted by: **Your Name Here**
+Submitted by: **Hevander Da Costa**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
