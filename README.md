@@ -20,7 +20,7 @@ The following REQUIRED features are completed:
 
 - [X] App contains a RecyclerView that displays a list of scrollable data
 - [X] App displays at least two (2) pieces of data for each RecyclerView item
-- [X] Use a downloadable font with custom color and size **Chakra Peatch**
+- [X] Use a downloadable font with custom color and size **Chakra Petch**
 - [X] Modify the theme of the app in `themes.xml`**Lilac Theme**
 - [X] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
