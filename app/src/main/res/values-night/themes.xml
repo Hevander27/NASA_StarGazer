@@ -1,11 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.NasaAPI_20" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-        <item name="android:textViewStyle">@color/silver</item>
-
-    </style>
-
-
+<!-- Base application theme. -->
+<style name="Base.Theme.NasaAPI_20" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Customize your dark theme here. -->
+    <item name="android:windowBackground">@drawable/darkmode_starry</item>
+    <!-- Set your night mode background image -->
+    <item name="android:textColor">@color/silver</item> <!-- Set text color to silver -->
+</style>
 </resources>

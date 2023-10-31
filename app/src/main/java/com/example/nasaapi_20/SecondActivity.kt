@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
+import com.bumptech.glide.Glide
 
 class SecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,12 +17,13 @@ class SecondActivity : AppCompatActivity() {
 
         val intent = intent
 
-        val image = intent?.getIntExtra("image",0)
+
         val title =  intent?.getStringExtra("title")
         val explanation = intent?.getStringExtra("explanation")
 
-        if (image != null) {
-            img_detail.setImageResource(image)
+        val imageUrl = intent?.getStringExtra("image")
+        if (imageUrl != null) {
+            Glide.with(this).load(imageUrl).into(img_detail)
         }
 
         title_detail.text = title
