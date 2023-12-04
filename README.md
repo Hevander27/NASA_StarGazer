@@ -39,7 +39,7 @@ The following EXTRA features are implemented:
 
 
 
-<img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' width='' height='' alt='Video Walkthrough' />
 
 GIF created with **your chosen GIF tool**
 Here's a video / GIF that demos all of the app's implemented features:
