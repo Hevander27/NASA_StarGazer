@@ -39,18 +39,18 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/a/MXPnK4K.gif' title='' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/jDbZYQf.gif' title='' width='' alt='Video Demo' />
 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/MXPnK4K"  >
 <a href="//imgur.com/a/MXPnK4K">Project #7: CYOAPI Part 3:  (Up Res, no lag)</a></blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  >
 <a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a>
-</blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 GIF created with **your chosen GIF tool**
