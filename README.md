@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 - [x] List anything else that you added to improve the app!
     -[x] Added Detail View
 
-
+<img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
@@ -51,7 +51,7 @@ GIF created with **your chosen GIF tool**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-<img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
