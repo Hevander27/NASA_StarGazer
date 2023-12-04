@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  ><a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
