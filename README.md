@@ -39,17 +39,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/jDbZYQf.gif' title='' width='' alt='Video Demo' />
 
+<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MXPnK4K"  >
-<a href="//imgur.com/a/MXPnK4K">Project #7: CYOAPI Part 3:  (Up Res, no lag)</a></blockquote>
-
-
-
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  >
-<a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a>
 
 
 
