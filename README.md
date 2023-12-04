@@ -35,12 +35,15 @@ The following EXTRA features are implemented:
     -[x] Added Detail View
 
 
+
+<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
 
-<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 
 
 
