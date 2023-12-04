@@ -43,7 +43,7 @@ The following EXTRA features are implemented:
 
 GIF created with **your chosen GIF tool**
 Here's a video / GIF that demos all of the app's implemented features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  ><a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a></blockquote>
+
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -51,7 +51,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Nl9gIM8"  ><a href="//imgur.com/a/Nl9gIM8">Project #7: CYOAPI Part 3: ✨ Beautified ✨</a></blockquote>
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 ## License
 
