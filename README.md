@@ -35,18 +35,13 @@ The following EXTRA features are implemented:
     -[x] Added Detail View
 
 
-
-<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-
-
-
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="jDbZYQf"><a href="https://imgur.com/jDbZYQf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with **your chosen GIF tool**
 
