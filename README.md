@@ -42,6 +42,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 
 
+<img src='https://imgur.com/a/Nl9gIM8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with **your chosen GIF tool**
 
@@ -53,7 +54,6 @@ GIF created with **your chosen GIF tool**
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-<img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## License
 
 Copyright **2023** **Hevander**
