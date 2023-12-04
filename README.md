@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 
-<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/jDbZYQf.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
 
