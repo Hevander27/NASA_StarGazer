@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 
 ## Video Demo
-
+![S7j9ThflisK-z-0-y-6632a78ea4d95544a99680be](https://github.com/Hevander27/NASA_StarGazer/assets/45948489/cd149a54-cc7c-4d7e-bd82-6984eec0b5dc)
 <img src='https://i.imgur.com/lh1IA54.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 
